@@ -1,5 +1,5 @@
 def calculadora(num1, num2):
-  operacao = input('Qual o operação voce gostaria de fazer (+; -; *; /)? ')
+  operacao = input('Qual operação voce gostaria de fazer (+; -; *; /)? ')
   if operacao == '+':
     return f'O resultado da soma é {num1 + num2}'
   elif operacao == '-':
