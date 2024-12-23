@@ -6,3 +6,7 @@
 
 ![image](https://github.com/Caiosad10/Calculadora-Em-Python-simples/assets/150187420/64637e5b-80ed-432d-b249-0d70ac98d844)
 
+---
+
+- Após a função criada, é criada também as variáveis solicitando os números para se fazer a operação matemática
+
