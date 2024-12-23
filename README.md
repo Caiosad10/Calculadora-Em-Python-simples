@@ -10,3 +10,9 @@
 
 - Após a função criada, é criada também as variáveis solicitando os números para se fazer a operação matemática
 
+~~~python
+
+num1 = int(input('Digite o primeiro numero: '))
+num2 = int(input('Digite o segundo numero: '))
+
+~~~
