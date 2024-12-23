@@ -8,7 +8,7 @@
 
 ---
 
-- Após a função criada, é criada também as variáveis solicitando os números para se fazer a operação matemática
+- Após a função criada, é criada também as variáveis solicitando os números para se fazer a operação matemática:
 
 ~~~python
 
