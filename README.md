@@ -1,6 +1,6 @@
-# Calculadora simples
+# Calculadora simples para somar, subtrair, multiplicar e dividir
 
-Feito com os operadores básicos de matemática
+### Neste projeto a função para calcular foi feito primeiro, dentro dela foi feito o IF e ELIF para diferenciar o operador
 
 - Não há muito misterio, apenas feito com IF e ELIF:
 
